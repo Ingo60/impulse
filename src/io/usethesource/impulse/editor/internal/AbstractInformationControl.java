@@ -93,7 +93,6 @@ import org.eclipse.ui.commands.ICommandService;
 import org.eclipse.ui.contexts.IContextService;
 import org.eclipse.ui.handlers.IHandlerService;
 import org.eclipse.ui.ide.IDE;
-import org.eclipse.ui.services.IServiceLocator;
 
 import io.usethesource.impulse.editor.ModelTreeNode;
 import io.usethesource.impulse.editor.StringMatcher;

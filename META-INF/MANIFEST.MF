@@ -46,4 +46,4 @@ Export-Package: io.usethesource.impulse.actions,
  io.usethesource.impulse.services.base,
  io.usethesource.impulse.ui,
  io.usethesource.impulse.utils
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
